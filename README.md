@@ -70,7 +70,7 @@ cloud-os/
 ## Getting Started
 
 1. **Clone the repo**  
-   `git clone https://github.com/your-org/cloud-os.git`
+   `git clone https://github.com/ghanshyam2005singh/cloud-os`
 
 2. **Start local development stack**  
    ```bash
